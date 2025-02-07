@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm **devforge-php**!
+## 👋 Hey there, I'm ** Azizbek Xasanov **!
 
 💻 **Backend Developer** | 🚀 **PHP | Laravel | MySQL | REST | Redis | GraphQL**
 
