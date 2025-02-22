@@ -11,15 +11,8 @@
 - 🚀 Always learning new technologies to improve my skills
 - 💬 Ask me about anything related to **backend development**
 
----
 
-### ⚡ GitHub Stats
 
-![devforge-php's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devforge-php&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devforge-php&layout=compact&theme=dark)
-
----
 
 ### 🚀 Technologies & Tools
 
