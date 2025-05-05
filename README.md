@@ -1,13 +1,12 @@
 ## 👋 Hey there, I'm ** Azizbek Xasanov **!
 
-💻 **Backend Developer** | 🚀 **PHP | Laravel | MySQL | REST | Redis | GraphQL**
+💻 **Backend Developer** 
 
 ---
 
 ### 📌 About Me
 
 - 🔥 Passionate about backend development & scalable systems
-- 💡 Experienced in **PHP**, **Laravel**, **MySQL**, **Redis**, **GraphQL**, and **REST APIs**
 - 🚀 Always learning new technologies to improve my skills
 - 💬 Ask me about anything related to **backend development**
 
