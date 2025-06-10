@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm ** Azizbek Xasanov **!
+## 👋 Hey there, I'm  Azizbek Xasanov 
 
 💻 **Backend Developer** 
 
